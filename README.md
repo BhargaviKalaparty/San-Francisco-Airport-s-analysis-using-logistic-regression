@@ -27,10 +27,16 @@ usa - binary, whether the passenger was flying to a destination in the USA (1) o
 • A classification table (confusion matrix), obtained based on classifying outcomes as “good" if the predicted risk is over 50%, and "bad" otherwise.
 
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/6b70191c-f63d-435c-8f51-8cf9019bafde)
+
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/9bbb58b2-bc90-4e2f-88b2-a15803dd474b)
+
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/0563e457-82d8-4401-94aa-e55674aff2d1)
+
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/b4086f04-bb04-4cab-a528-d8b5b91c95d2)
+
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/21b44eb1-96c0-4edf-a437-50d9417138d9)
+
+Confusion Matrix:
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/f903484b-a2b4-4ff2-87d5-a7a66a709e9d)
 
 
