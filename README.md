@@ -37,6 +37,7 @@ usa - binary, whether the passenger was flying to a destination in the USA (1) o
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/21b44eb1-96c0-4edf-a437-50d9417138d9)
 
 Confusion Matrix:
+
 ![image](https://github.com/BhargaviKalaparty/San-Francisco-Airport-s-analysis-using-logistic-regression/assets/149389777/f903484b-a2b4-4ff2-87d5-a7a66a709e9d)
 
 
