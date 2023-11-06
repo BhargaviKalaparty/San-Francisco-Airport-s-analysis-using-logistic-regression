@@ -7,17 +7,17 @@ Descriptive statistics such as mean, median and quartiles are calculated. Logist
 The dataset is adapted from a 2012 passenger survey from San Francisco airport (SFO). 
 The variables of dataset are: 
 
-Good - the outcome variable, a binary measure of whether the passenger approved of the airport 1= good, 0 = not good 
+good - the outcome variable, a binary measure of whether the passenger approved of the airport 1= good, 0 = not good 
 
-Dirty - a count of the number of locations (car park, restrooms, restaurants, etc) which the passenger felt were dirty 
+dirty - a count of the number of locations (car park, restrooms, restaurants, etc) which the passenger felt were dirty 
 
-Wait - the number of hours the passenger spent at the airport between arrival and flying (not necessarily delays) 
+wait - the number of hours the passenger spent at the airport between arrival and flying (not necessarily delays) 
 
-Lastyear - a count of the number of times the passenger flew out of SFO in the previous 12 months 
+lastyear - a count of the number of times the passenger flew out of SFO in the previous 12 months 
 
-USA - binary, whether the passenger was flying to a destination in the USA (1) or another country (0)
+usa - binary, whether the passenger was flying to a destination in the USA (1) or another country (0)
 
-# Reasearch Scope:
+# Research Scope:
 
 • A brief summary and explanation of descriptive statistics that are appropriate for each of the variables (mean and SD, or median and quartiles, or percentages). 
 • A visualisation of ‘wait’ and ‘usa’ , highlighting the observations where the binary outcome was positive, with a brief explanation of what you can interpret from it.
